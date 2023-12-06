@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescpuig7
 - 👀 I'm interested in everything that has a screen or engine motor
-- 🌱 I’m currently learning Associate Google Cloud Engineer
+- 🌱 I’m currently learning on Google Cloud Platform
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me, just send a mail to info@francescpuig.cat
 
